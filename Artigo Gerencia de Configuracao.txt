@@ -1,0 +1,8 @@
+O arquivo compactado "Artigo Gerência de Configuração.zip" contém o artigo em formato doc do grupo:
+    CAIO SILVEIRA
+    LEONARDO PIANTA AUGUSTO
+    NÍCOLLAS RICARDO DOS SANTOS
+    PEDRO JANNOTTI
+    WESCLEY FERREIRA DE CASTILHO
+    
+O arquivo está compactado e em formato Word pois o tamanho do mesmo em formato pdf era grande demais.
